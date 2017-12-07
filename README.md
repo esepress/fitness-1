@@ -10,19 +10,6 @@ Performance basics are covered: unused Bootstrap SCSS is commented out, assets a
 
 [LIVE PREVIEW](http://demo.themewagon.com/preview/free-bootstrap-4-fitness-template)
 
-## Prerequisites:
-
-* node: [nodejs.org](https://nodejs.org/en/)
-* git: [git-scm.com](https://git-scm.com/downloads)
-* ruby: [ruby-lang.org](https://www.ruby-lang.org/en/)
-
-
-## Quick start:
-
-* [Download the latest release](https://github.com/technext/fitness-1/archive/master.zip) or clone the repo
-* Install gulp `npm install -g gulp`
-* Download dependencies `npm install`
-* Dev mode with browsersync `gulp`
 
 ## Misc:
 
